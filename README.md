@@ -32,7 +32,8 @@ To get a local copy of the project up and running on your machine, follow these 
    git clone https://github.com/sandeepatel01/Parallax-Effect.git
    cd parallax-website
 
-Usage
+## Usage
+
 You can use this parallax website as a template for your own projects. Here are some basic steps to customize it:
 
 Replace the content in the index.html file with your own text, images, and links.
@@ -40,7 +41,8 @@ Customize the styles in the styles.css file to match your branding or design pre
 Add or remove sections as needed to fit your project's requirements.
 Feel free to explore the code and make any necessary adjustments to meet your specific needs.
 
-Contributing
+## Contributing
+
 If you would like to contribute to this project, please follow these steps:
 
 Fork the repository on GitHub.
